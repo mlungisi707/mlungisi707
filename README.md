@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Hi%2C%20I%27m%20Soweto&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Network%20Engineering%20%C2%B7%20Hands-on%20Labs%20%C2%B7%20Evidence-Driven%20Documentation&descSize=17&descAlignY=60&animation=fadeIn" width="100%" alt="Profile banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Hi%2C%20I%27m%20MlungisiIkeButhelezi&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Network%20Engineering%20%C2%B7%20Hands-on%20Labs%20%C2%B7%20Evidence-Driven%20Documentation&descSize=17&descAlignY=60&animation=fadeIn" width="100%" alt="Profile banner"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=900&color=38BDF8&center=true&vCenter=true&width=780&lines=Building+hands-on+labs+in+Cisco+CML+and+Packet+Tracer;Routing%2C+WAN%2FVPN%2C+security%2C+automation+and+monitoring;Every+lab%3A+design%2C+configuration%2C+evidence+and+limits" alt="Typing animation"/>
 
